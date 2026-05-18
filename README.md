@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Alexarmanto/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Alexarmanto/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alexarmanto/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1920-build-array-from-permutation](https://github.com/Alexarmanto/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Alexarmanto/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Alexarmanto/Leetcode/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Alexarmanto/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

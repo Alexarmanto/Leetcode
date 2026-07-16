@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Alexarmanto/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Alexarmanto/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alexarmanto/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/Alexarmanto/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Alexarmanto/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Alexarmanto/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1920-build-array-from-permutation](https://github.com/Alexarmanto/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Alexarmanto/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Alexarmanto/Leetcode/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/Alexarmanto/Leetcode/tree/master/0204-count-primes) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Alexarmanto/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Alexarmanto/Leetcode/tree/master/0013-roman-to-integer) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Alexarmanto/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Alexarmanto/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Alexarmanto/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Alexarmanto/Leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Alexarmanto/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Alexarmanto/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Alexarmanto/Leetcode/tree/master/0231-power-of-two) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Alexarmanto/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Alexarmanto/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Alexarmanto/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alexarmanto/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Two Pointers
 |  |

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Alexarmanto/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Alexarmanto/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Alexarmanto/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Alexarmanto/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Alexarmanto/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Alexarmanto/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Alexarmanto/Leetcode/tree/master/0204-count-primes) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Alexarmanto/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Alexarmanto/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Alexarmanto/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Alexarmanto/Leetcode/tree/master/0231-power-of-two) |
 ## Hash Table

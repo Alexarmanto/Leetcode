@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Alexarmanto/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Alexarmanto/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Alexarmanto/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0528-random-pick-with-weight](https://github.com/Alexarmanto/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [1920-build-array-from-permutation](https://github.com/Alexarmanto/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Alexarmanto/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Alexarmanto/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Alexarmanto/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Alexarmanto/Leetcode/tree/master/0231-power-of-two) |
+| [0528-random-pick-with-weight](https://github.com/Alexarmanto/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Alexarmanto/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
@@ -79,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Alexarmanto/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0528-random-pick-with-weight](https://github.com/Alexarmanto/Leetcode/tree/master/0528-random-pick-with-weight) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Alexarmanto/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Alexarmanto/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alexarmanto/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0528-random-pick-with-weight](https://github.com/Alexarmanto/Leetcode/tree/master/0528-random-pick-with-weight) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Alexarmanto/Leetcode/tree/master/0231-power-of-two) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Alexarmanto/Leetcode/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
